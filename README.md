@@ -11,3 +11,14 @@
 -  **Hobbies :** Game dev & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 -  **Organisation :** Hop
+
+</br>
+
+## 📈 **Github Stats:**
+
+<a href="https://github.com/KarthikNayak024">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=heryksongomes&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+</a>
+<a href="https://github.com/heryksongomes/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=heryksongomes&layout=compact&theme=blue-green" />
+</a>
