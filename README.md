@@ -16,7 +16,7 @@
 
 ## 📈 **Github Stats:**
 
-<a href="https://github.com/KarthikNayak024">
+<a href="https://github.com/heryksongomes">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=heryksongomes&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
 </a>
 <a href="https://github.com/heryksongomes/github-readme-stats">
