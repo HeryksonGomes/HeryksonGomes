@@ -6,7 +6,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Software Developer :zap:	
+-  **Job :** Software Developer :zap:	
 -  **Languages :** Ruby, C#, JavaScript
 -  **Hobbies :** Game dev & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
