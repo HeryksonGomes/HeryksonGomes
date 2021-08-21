@@ -7,9 +7,7 @@
 ### About
 
 -  **Job :** Software Developer :zap:	
--  **Languages :** Ruby, Kotlin, JavaScript
--  **Hobbies :** Game dev, Cooking, Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart:
+-  **Hobbies :** Cooking, Music :headphones:
 
 </br>
 
